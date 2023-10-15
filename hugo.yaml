@@ -1,0 +1,10 @@
+baseURL: 
+languageCode: en-us
+title: Trading Journal
+theme: PaperMod
+
+params:
+    cover:
+        linkFullImages: true
+        ShowReadingTime: true
+        ShowBreadCrumbs: true
