@@ -1,10 +1,17 @@
-baseURL: 
+baseURL:  https://delicate-banoffee-98b628.netlify.app
 languageCode: en-us
 title: Trading Journal
 theme: PaperMod
+
 
 params:
     cover:
         linkFullImages: true
         ShowReadingTime: true
         ShowBreadCrumbs: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
