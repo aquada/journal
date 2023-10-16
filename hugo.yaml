@@ -1,4 +1,5 @@
 baseURL:  https://delicate-banoffee-98b628.netlify.app
+metaDataFormat: yaml
 languageCode: en-us
 title: Trading Journal
 theme: PaperMod
@@ -15,3 +16,21 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 30
+        - identifier: example
+          name: example.org
+          url: https://example.org
+          weight: 40
