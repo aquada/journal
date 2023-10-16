@@ -1,7 +1,7 @@
 ---
 title: Trading Plan
 date: 2023-10-16T17:58:51.078Z
-draft: true
+draft: false
 categories: []
 tags: []
 cover:
