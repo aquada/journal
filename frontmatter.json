@@ -75,6 +75,10 @@
     {
       "title": "post",
       "path": "[[workspace]]/content/post"
+    },
+    {
+      "title": "page",
+      "path": "[[workspace]]/content/page"
     }
   ]
 }

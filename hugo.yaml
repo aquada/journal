@@ -31,6 +31,6 @@ menu:
           url: /archives/
           weight: 30
         - identifier: example
-          name: example.org
-          url: https://example.org
+          name: trading plan
+          url: /page/2023-10-16-trading-plan
           weight: 40
