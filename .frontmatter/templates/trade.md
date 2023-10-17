@@ -1,9 +1,9 @@
 ---
 title: Break rules and trading news
 date: 2023-10-04T17:50:47.000Z
-draft: false
+draft: 2023-10-16T17:50:47.574Z
 categories:
-  - loss
+  - trades
 tags:
   - loss
   - NEO
@@ -28,19 +28,20 @@ none
 ### Exit
 SL
 ### Mindset pre and post trade
-I recorded this in my journal as a 4/5 ,mindset, but I should not be taking news trades as per my [trading plan](/page/2023-10-16-trading-plan) 
-
-### Details
+I recorded this in my journal as a 4/5 ,indset, but I should not be taking news trades as per my [trading plan](/page/2023-10-16-trading-plan) 
+### Insert from journal
+- Date: 
 - Long/Short:
 - Strategy: News
 - Conviction:
 - Mindset:
 - AAA+ [Y/N]:
+- Comments:
 - Win/Loss/BE: loss
 - MQL: [MQL URL](https://www.mql5.com/en/charts/18319109/us30-cash-m1-ftmo-s-r)
+- Win/Loss/BE:
 - R Gain: -0.94
-- %Risk: 0.01
-
+- %Risk: 
 ### Pros and Cons
 #### Pros
 

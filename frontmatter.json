@@ -4,66 +4,44 @@
     {
       "name": "default",
       "pageBundle": false,
+      "previewPath": null,
       "fields": [
         {
-          "title": "title",
+          "title": "Title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "date",
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
           "name": "date",
-          "type": "datetime"
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
         },
         {
-          "title": "draft",
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
           "name": "draft",
-          "type": "datetime"
+          "type": "draft"
         },
         {
-          "title": "categories",
-          "name": "categories",
-          "type": "categories"
-        },
-        {
-          "title": "tags",
+          "title": "Tags",
           "name": "tags",
           "type": "tags"
         },
         {
-          "title": "cover",
-          "name": "cover",
-          "type": "fields",
-          "fields": [
-            {
-              "title": "image",
-              "name": "image",
-              "type": "image"
-            },
-            {
-              "title": "alt",
-              "name": "alt",
-              "type": "string"
-            },
-            {
-              "title": "caption",
-              "name": "caption",
-              "type": "string"
-            },
-            {
-              "title": "relative",
-              "name": "relative",
-              "type": "datetime"
-            }
-          ]
-        },
-        {
-          "title": "keywords",
-          "name": "keywords",
-          "type": "choice",
-          "choices": [
-            "US100"
-          ]
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
         }
       ]
     }
@@ -80,5 +58,26 @@
       "title": "page",
       "path": "[[workspace]]/content/page"
     }
-  ]
+  ],
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.content.snippets": {
+    "Trade": {
+      "description": "details of trade",
+      "body": [
+        "- Date: ",
+        "- Long/Short:",
+        "- Strategy: News",
+        "- Conviction:",
+        "- Mindset:",
+        "- AAA+ [Y/N]:",
+        "- Comments:",
+        "- Win/Loss/BE: loss",
+        "- MQL: [MQL URL](<URL>)",
+        "- Win/Loss/BE:",
+        "- R Gain: -0.94",
+        "- %Risk: <risk>"
+      ],
+      "fields": []
+    }
+  }
 }
