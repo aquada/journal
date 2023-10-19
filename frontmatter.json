@@ -34,6 +34,38 @@
           "type": "draft"
         },
         {
+          "title": "Cover image",
+          "name": "cover",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "image",
+              "name": "image",
+              "type": "image"
+            },
+            {
+              "title": "alt",
+              "name": "alt",
+              "type": "string"
+            },
+            {
+              "title": "caption",
+              "name": "caption",
+              "type": "string"
+            },
+            {
+              "title": "relative path",
+              "name": "relative",
+              "type": "boolean"
+            },            
+            {
+              "title": "responsive images",
+              "name": "responsiveImages",
+              "type": "boolean"
+            }
+          ]
+        },
+        {
           "title": "Tags",
           "name": "tags",
           "type": "tags"
@@ -60,24 +92,5 @@
     }
   ],
   "frontMatter.dashboard.openOnStart": true,
-  "frontMatter.content.snippets": {
-    "Trade": {
-      "description": "details of trade",
-      "body": [
-        "- Date: ",
-        "- Long/Short:",
-        "- Strategy: News",
-        "- Conviction:",
-        "- Mindset:",
-        "- AAA+ [Y/N]:",
-        "- Comments:",
-        "- Win/Loss/BE: loss",
-        "- MQL: [MQL URL](<URL>)",
-        "- Win/Loss/BE:",
-        "- R Gain: -0.94",
-        "- %Risk: <risk>"
-      ],
-      "fields": []
-    }
-  }
+  "frontMatter.content.snippets": {}
 }

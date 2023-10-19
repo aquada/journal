@@ -3,19 +3,27 @@ metaDataFormat: yaml
 languageCode: en-us
 title: Trading Journal
 theme: PaperMod
-
+author: Dan Phillips
 
 params:
     cover:
         linkFullImages: true
         ShowReadingTime: true
         ShowBreadCrumbs: true
+        DateFormat: "Monday 2 Jan 2006"
+
+
+    homeInfoParams:
+        Title: Mind the gap
+        Content: a demonstration of importance of self awareness when trading
+
 
 outputs:
     home:
         - HTML
         - RSS
         - JSON # is necessary
+
 menu:
     main:
         - identifier: categories
@@ -30,7 +38,7 @@ menu:
           name: archives
           url: /archives/
           weight: 30
-        - identifier: example
+        - identifier: plan
           name: trading plan
           url: /page/2023-10-16-trading-plan
           weight: 40
