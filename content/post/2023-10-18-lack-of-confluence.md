@@ -3,7 +3,7 @@ title: Lack of confluence
 description: ""
 date: 2023-10-06T08:03:54.000Z
 preview: ""
-draft: true
+draft: false
 cover:
     image: /img/US30_2023.10.06_14:11.png
     alt: ""
