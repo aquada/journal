@@ -1,6 +1,6 @@
 ---
 title: Trading Plan
-date: 2023-10-16T17:58:51.078Z
+date: 2023-01-01T17:58:51.000Z
 draft: false
 categories: []
 tags: []
