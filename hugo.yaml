@@ -39,6 +39,6 @@ menu:
           url: /archives/
           weight: 30
         - identifier: plan
-          name: trading plan
-          url: /page/2023-10-16-trading-plan
-          weight: 40
+          # name: trading plan
+          # url: /page/2023-10-16-trading-plan
+          # weight: 40
