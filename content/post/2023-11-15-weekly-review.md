@@ -22,4 +22,6 @@ There have been 2 issues that came up this week. One is very familiar and the ot
 ## Fear of loss
 This one is the lesser of the 2 evils and I have managed to catch the emotions before I close trades more often than not, but this week the problem was very obvious and led to a fair dent in profits. The best example is this trade 
 
-![](/img/c9e959b048de026b3907829905008cf1.png)
+![](/img/c9e959b048de026b3907829905008cf1.png){target:blank}
+
+<a href="" target="_blank">my link</a>
