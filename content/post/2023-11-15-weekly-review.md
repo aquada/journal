@@ -3,7 +3,7 @@ title: Weekly review
 description: ""
 date: 2023-11-15T05:08:32.233Z
 preview: ""
-draft: true
+draft: false
 cover:
   image: ""
   alt: ""
