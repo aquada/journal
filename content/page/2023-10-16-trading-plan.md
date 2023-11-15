@@ -1,7 +1,7 @@
 ---
 title: Trading Plan
 date: 2023-01-01T17:58:51.000Z
-draft: false
+draft: true
 categories: []
 tags: []
 cover:
@@ -18,12 +18,13 @@ keywords: ""
 - News check
 - Have a target with confluence
 #### Entry
-- Price has made a impusive move out of range and retraced
+- PA PA PA
+- Price has made a impulsive move out of range and retraced
 - There is confluence for the entry
-- Prefer ABC FE
-- SDF trades with caution, look for more than 2 rejections on SD levels
+- Prefer ABC
+- SDF trades with discretion
 #### Management
-- Keep an eye on PA
+- Keep an eye on PA particularly candle formations
 - Have faith in trade and hold SL until first retrace and move break of previous high / low, then SL BE
 - Recover losses if possible and aim for locking 5R
 - If price continues in favour trail candle 
