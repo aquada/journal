@@ -25,7 +25,7 @@ This one is the lesser of the 2 evils and I have managed to catch the emotions b
 
 You can see here that I had no good reason to close this trade. My SL was close to BE and I had little to lose leaving the trade running. Instead I closed it based on a fear of loss. 
 ## Greed
-This one, and I am not sure it is always greed, but it is the big one. I place a trade with little thought or consideration for the outcome. I see a movement, think it is going the right way and take an impulsive short at it. It can happen as the first trade of the day and it can happen as a result of a trade where the result is not a win. This can be break even (BE) or a loss. [Here](https://delicate-banoffee-98b628.netlify.app/post/2023.11.08-10_50-lo-dow-/) is a good example of a reaction after not winning and jumping back in again. 
+This one, and I am not sure it is always greed, but it is the big one. I place a trade with little thought or consideration for the outcome. I see a movement, think it is going the right way and take an impulsive shot at it. It can happen as the first trade of the day and it can happen as a result of a trade where the result is not a win. This can be break even (BE) or a loss. [Here](https://delicate-banoffee-98b628.netlify.app/post/2023.11.08-10_50-lo-dow-/) is a good example of a reaction after not winning and jumping back in again. 
 
 ## Summary of results
 Totals for Tue - Tue in this review 9.4R
